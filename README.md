@@ -4,4 +4,4 @@ Ceci est la présentation de diapositive de notre projet pour les journées de p
 
 ## Voir la présentation
 
-Allez sur le site: https://robot-grimpeur.github.io/presentation
+Allez sur: https://robot-grimpeur.github.io/presentation
